@@ -118,7 +118,7 @@ public class Res extends RESTService {
     if(res_condition) {
       JSONObject res = new JSONObject();
  
-      res.put("name", 1); 
+      res.put("name", "Alice"); 
       res.put("id", 3);
       
 
